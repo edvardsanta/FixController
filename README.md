@@ -21,7 +21,7 @@ The inspiration for this project comes from a Python-based solution created by [
 
 2. Run this code with sudo privileges:
     ``` bash
-    sudo ./xbox_controller_emulator
+    sudo ./fix_controller
     ```
 
 ## Disclaimer
